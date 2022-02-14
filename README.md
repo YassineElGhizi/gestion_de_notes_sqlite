@@ -1,6 +1,9 @@
 # gestion_de_notes_sqlite
+Ce repository GitHub représente le premier projet de fin de module : développement mobile.
 
 # Application Screen Shots
+
+
 
 ![0](https://user-images.githubusercontent.com/86019502/153933237-42a919d5-ea9a-4fb3-9fab-8ddf521c6b08.jpg)
 
